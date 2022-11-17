@@ -1,4 +1,4 @@
-# node-ts-template
+# node-ts-BlockChain
 Simple block chain
 
 
